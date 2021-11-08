@@ -1,5 +1,5 @@
 # part 1: Make a topmatter.tex
-Make a file called "topmatter.tex" and make a title, add an author, make a small subcaption. 
+- Make a file called "topmatter.tex" and make a title, add an author, make a small subcaption. 
 
 # part 2: body.tex
 - fix all the errors, insert images, add citation
