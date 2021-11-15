@@ -1,0 +1,17 @@
+# Fdb version 3
+["pdflatex"] 1636398917 "main.tex" "main.pdf" "main" 1636398917
+  "/usr/local/texlive/2021/texmf-dist/tex/generic/babel-english/english.ldf" 1496785618 7008 9ff5fdcc865b01beca2b0fe4a46231d4 ""
+  "/usr/local/texlive/2021/texmf-dist/tex/generic/babel/babel.def" 1626986546 123985 95be6f36f6c54070fdcb3cb50663eed2 ""
+  "/usr/local/texlive/2021/texmf-dist/tex/generic/babel/babel.sty" 1626986546 35620 c595f681ebc251caa49596c63048c363 ""
+  "/usr/local/texlive/2021/texmf-dist/tex/generic/babel/txtbabel.def" 1624912699 5233 a89961f969f72563cb59411e9dc4ae8e ""
+  "/usr/local/texlive/2021/texmf-dist/tex/latex/base/article.cls" 1622581934 20144 0fe9067680219956678b52f12bdce8ee ""
+  "/usr/local/texlive/2021/texmf-dist/tex/latex/base/size10.clo" 1622581934 8448 05e1c6a8fc5db344ed9d7aeb299acbce ""
+  "/usr/local/texlive/2021/texmf-dist/web2c/texmf.cnf" 1621028613 40042 fe981136cbb5f3715ab1b0e46e3d3892 ""
+  "/usr/local/texlive/2021/texmf-var/web2c/pdftex/pdflatex.fmt" 1634143980 2592702 ac7f997cb4894fe7a0104b83c5e0a276 ""
+  "/usr/local/texlive/2021/texmf.cnf" 1634143961 455 5b996dcaa0eb4ef14a83b026bc0a008c ""
+  "fourier.sty" 0 -1 0 ""
+  "main.aux" 1636398917 32 3985256e7290058c681f74d7a3565a19 ""
+  "main.tex" 1636398915 214 8abb274389a1ba2a4d620835b0e3838e ""
+  (generated)
+  "main.log"
+  "main.pdf"
